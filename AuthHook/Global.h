@@ -13,7 +13,7 @@
 
 //---------------------------------------------------------------------------------------------
 
-#define OPT_APPNAME			"v214"
+#define OPT_APPNAME			"MapleStory"
 #define OPT_APPVERSION		"1.0"
 #define OPT_ADDR_HOSTNAME	"127.0.0.1"
 
